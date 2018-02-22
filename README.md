@@ -12,6 +12,7 @@ I rewrite this project, and commit some changes:
  - add CORS configuration and HTML5 client
  - add Java Http Client 
  - add Python Client
+ - add Node.js Client
 
 ### Project dependencies
  - Spring Boot 2
