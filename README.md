@@ -3,6 +3,9 @@
 I learnt the main idea from this project:
 [spring-boot-reactive-sse](https://github.com/mohitsinha/spring-boot-reactive-sse)
 
+HTML5 Client reference:
+[HTML5 Server-Sent Events](https://www.w3schools.com/html/html5_serversentevents.asp)
+
 ### Change log
 I rewrite this project, and commit some changes:
  - restructure packages
