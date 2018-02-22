@@ -1,0 +1,9 @@
+{
+  "name": "sse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "eventsource": "^1.0.5"
+  }
+}
